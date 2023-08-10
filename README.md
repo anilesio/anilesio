@@ -9,11 +9,6 @@
 <img align='right' src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31)" width="230">
 <p><em>Front-end developer and UI/UX desiner </em></p>
 
-[![Linkedin: anilesio](https://img.shields.io/badge/-anilesio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anil%C3%A9sio-xavier-4a0ba7195/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![anilesio](https://github.com/anmol098/anmol098/workflows/Anilesio%Xavier/badge.svg)
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 I’m currently working on Banking Systems
