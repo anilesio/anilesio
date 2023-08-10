@@ -6,7 +6,7 @@
 </p>
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> (Namaste)🙏🏻, I'm Anilésio Xavier! <img src="https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31)" width="230">
 <p><em>Front-end developer and UI/UX desiner </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
@@ -16,14 +16,19 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 I’m currently working on Banking Systems
+- 🌱 I’m currently Economy and Finance
+- 💼 Front-end Developer with some Back-end Skills
+- 🤔 Exploring new technologies and developing software solutions
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; JavaScript | Python |
+- 🌐 &nbsp; React | React Native | HTML | CSS | Bootstrap | Django
+- 🛢 &nbsp; MySQL | Xampp
+- 🔧 &nbsp; Visual Studio code | Git | Figma | 
 
 &nbsp;
 
