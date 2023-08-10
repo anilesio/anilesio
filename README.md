@@ -21,9 +21,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
-
-| 📱 My Contact and Social Midea                                                                                                 |
+## 📱 My Contact and Social Midea
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />                                            
  <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />                 
  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />                
