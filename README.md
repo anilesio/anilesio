@@ -45,6 +45,5 @@
 
 ## Let's Connect :handshake:
 
-<a target="_blank" href="https://www.linkedin.com/in/anil%C3%A9sio-xavier-4a0ba7195/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a
-|--|--|
+<a target="_blank" href="https://www.linkedin.com/in/anil%C3%A9sio-xavier-4a0ba7195/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
 
