@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="100" src="https://image.pngaaa.com/555/1468555-small.png" />
+  <img align="center" width="100" src="https://cdn-icons-png.flaticon.com/512/3515/3515172.png" />
 
   <h1 align="center">Beautiful is better than ugly</h1>
   <h3 align="center"><em>Tim Peters</em> </h3>
