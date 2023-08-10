@@ -1,8 +1,8 @@
 <p align="center">
-  <img align="center" width="100" src="https://www.nicepng.com/png/detail/73-739585_red-quotation-marks-png.png" />
+  <img align="center" width="100" src="https://e7.pngegg.com/pngimages/216/546/png-clipart-illustration-quotation-mark-guillemet-quotation-love-heart.png" />
 
-  <h1 align="center">Github Readme Quotes</h1>
-  <h3 align="center">Developer Quotes for your Github Readme.</h3>
+  <h1 align="center">Beautiful is better than ugly</h1>
+  <h3 align="center"><em>Tim Peters</em> </h3>
 </p>
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> (Namaste)🙏🏻, I'm Anilésio Xavier! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
