@@ -5,7 +5,7 @@
   <h3 align="center"><em>Tim Peters</em> </h3>
 </p>
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> (Namaste)🙏🏻, I'm Anilésio Xavier! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> (Namaste)🙏🏻, I'm Anilésio Xavier! <img src="https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Front-end developer and UI/UX desiner </em></p>
 
