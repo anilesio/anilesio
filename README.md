@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on Banking Systems
 - 🌱 I’m currently study Economy and Finance
-- 💼 Front-end Developer with some Back-end Skills
+- 💼 I'm a Front-end Developer with some Back-end Skills
 - 🤔 Exploring new technologies and developing software solutions
 
 <h3>🛠 Tech Stack</h3>
