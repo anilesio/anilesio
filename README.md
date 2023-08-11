@@ -16,7 +16,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 I’m currently working on Banking Systems
-- 🌱 I’m currently Economy and Finance
+- 🌱 I’m currently study Economy and Finance
 - 💼 Front-end Developer with some Back-end Skills
 - 🤔 Exploring new technologies and developing software solutions
 
